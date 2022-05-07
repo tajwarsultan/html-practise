@@ -1,0 +1,40 @@
+.data-rapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.MyData {
+  background-color: blue;
+  width: 30%;
+  height: 20vh;
+  padding: 2rem;
+  text-align: center;
+}
+.MyData .justify {
+  color: white;
+  font-size: 20px;
+  text-align: left;
+}
+#Description {
+  background-color: purple;
+  width: 50%;
+  height: 20vh;
+  border: solid darkcyan 5px;
+  border-bottom: red solid 5px;
+  border-radius: 10px;
+  padding: 1.5rem;
+  text-align: center;
+}
+#Description .justify {
+  color: red;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+    .carasole{
+        /* display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 50%;
+        height: 30vh; */
+        margin-bottom: 5rem;
+    }
